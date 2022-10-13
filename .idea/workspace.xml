@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63813fcb-130e-4ef5-abbc-3c97806708c4" name="Changes" comment="">
+    <list default="true" id="63813fcb-130e-4ef5-abbc-3c97806708c4" name="Changes" comment="scenario 1 and 2 completed">
+      <change afterPath="$PROJECT_DIR$/src/test/java/teladoc/README" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/teladoc/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/teladoc/Task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/teladoc/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/teladoc/pages/BasePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/teladoc/pages/PracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/teladoc/pages/PracticePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/teladoc/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/teladoc/runners/CukesRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/teladoc/step_definitions/AddUserStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/teladoc/step_definitions/AddUserStepDefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/teladoc/utils/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/teladoc/utils/ConfigurationReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/teladoc/utils/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/teladoc/utils/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/adduser.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/adduser.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/adduser.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/adduser.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/teladoc/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/teladoc/runners/CukesRunner.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="C:\Users\oliak\IdeaProjects\firstname_lastname_teladoc_challenge\src\test\java\teladoc\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: adduser">
+  <component name="RunManager" selected="JUnit.CukesRunner">
     <configuration name="Feature: adduser" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/adduser.feature" />
@@ -134,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Feature: adduser" />
         <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="Cucumber Java.Feature: adduser" />
         <item itemvalue="Cucumber Java.Scenario: Delete the user &quot;novak&quot; from the table and validate the user has been deleted." />
         <item itemvalue="Cucumber Java.Scenario: Add a user and validate the user has been added to the table" />
       </list>
@@ -150,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665683140727</updated>
     </task>
+    <task id="LOCAL-00001" summary="scenario 1 and 2 completed">
+      <created>1665697166417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665697166417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,5 +169,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="scenario 1 and 2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="scenario 1 and 2 completed" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/firstname_lastname_teladoc_challenge$CukesRunner.ic" NAME="CukesRunner Coverage Results" MODIFIED="1665697909552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>teladoc.runners.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -51,3 +51,6 @@ public class PracticePage extends BasePage {
     @FindBy(xpath = "//div/button[.='OK']")
     public WebElement OKBtn;
 }
+
+
+

@@ -22,3 +22,4 @@ Scenario: Add a user and validate the user has been added to the table
     Given User locates novak user and clicks on remove icon
     Then new window pops up and User needs to click ok button
     Then User can confirm that novak information has been deleted successfully
+

@@ -1,0 +1,14 @@
+To complete Scenario 1 and 2, I have used JAVA programming language with POM Cucumber/JUnit framework.
+I also used Gherkin language to write steps for each scenario, so my tests can be as readable as possible.
+
+To run the tests please follow the instructions bellow:
+
+1. Go to src/test
+2. java/teladoc
+3. runners
+4. CukesRunner
+5. Run the test
+
+
+
+

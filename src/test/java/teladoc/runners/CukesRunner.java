@@ -11,11 +11,13 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber.json"
         },
         features = "src/test/resources/features",
-        glue = "step_definitions",
+        glue = "teladoc/step_definitions",
         dryRun = false,
-        tags = ""
+        tags = "@task#1"
 )
 public class CukesRunner {
 
 
 }
+
+
