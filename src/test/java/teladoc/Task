@@ -1,0 +1,25 @@
+UI Homework Assignment
+The purpose of this assignment is to understand your abilities around UI Automation, Automation Best
+Practices, OOP (Object Oriented Programming), and Automated Testing.
+Choose whatever object oriented programming language and automation framework that you are most
+familiar with.
+This exercise should not take more than a couple of hours but spend as much time on it as you feel
+comfortable.
+Instructions:
+1. Create a new public repo on GitHub or Bitbucket (You can create a free account in either
+service).
+a. Name your repo, “firstname_lastname_teladoc_challenge”
+2. Using a BDD automation framework of your choice, write some automated tests to validate the
+scenarios below.
+3. Add a README to your repository with instructions on how to run your tests
+4. This project will be used as a vital part of the following phase of the interview process. Please
+use whatever tools you are most comfortable with but be prepared to share your screen to
+present/execute your working code and to expand upon it with the panel
+Story:
+As an Engr. Candidate
+I need to automate http://www.way2automation.com/angularjs-protractor/webtables/
+So that I can show my awesome automation skills
+Scenario 1
+Add a user and validate the user has been added to the table
+Scenario 2
+Delete the user &quot;novak&quot; from the table and validate the user has been deleted.

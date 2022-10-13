@@ -1,4 +1,4 @@
-package utils;
+package teladoc.utils;
 
 import java.io.FileInputStream;
 import java.util.Properties;
